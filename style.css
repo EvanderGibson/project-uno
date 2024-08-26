@@ -23,7 +23,21 @@ h1{
 	height:424px;
 	width:332px;
 	}	
+	.pancake2{
+	height:347px;
+	width:694px;
+	
+	}	
 
-	fluff {
+	.fluff {
 		font-size:35px;
 	}		
+	
+	.mallow{
+		padding-top:60px;
+	}
+	
+	.orange{
+		color:black;
+		background-color:white;
+	}
