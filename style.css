@@ -35,9 +35,16 @@ h1{
 	
 	.mallow{
 		padding-top:60px;
+		padding-bottom:0px;
+		color:black;
+		font-size:24px;
 	}
 	
 	.orange{
 		color:black;
 		background-color:white;
+	}
+	.marsh{
+		height:200px;
+		width:300px;
 	}
